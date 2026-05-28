@@ -1,12 +1,16 @@
 Package: com.sn0wcode.cydiapatch
-Name: CydiaPatch
-Version: 0.0.1
+Version: 0.0.1-49+debug
 Architecture: iphoneos-arm
-Description: Cydia patched by sn0wcode
 Maintainer: sn0wcode
-Author: sn0wcode
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: ./debs/com.sn0wcode.cydiapatch_iphoneos-arm.deb
+Installed-Size: 48
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sn0wcode.cydiapatch_iphoneos-arm.deb
 Size: 5136
-Icon: https://cydia.sn0wcode.com/icon.png
+MD5sum: 4c84a822cf217e8bae7d475f6bb07016
+SHA1: 99e7091f5451cc40f0c388f578b2147bc6ab8c7e
+SHA256: be2262ee9ac8392b0f45e7502610dec5eb7fdba95ff311587e6d501b0b82638f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: sn0wcode
+Name: CydiaPatch
+
