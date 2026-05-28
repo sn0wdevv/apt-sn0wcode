@@ -1,3 +1,23 @@
+Package: com.booleanmagic.displayrecorder
+Version: 1.3.22~beta1
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Installed-Size: 2492
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
+Filename: debs/cydiastore_com.booleanmagic.displayrecorder_v1.3.22~beta1.deb
+Size: 914570
+MD5sum: c337781a37e78e81958869803fa1095b
+SHA1: b22f79cbacbda918f02152786aa96650b86b38a0
+SHA256: 8115a5c0d537d5a0d59c121d28f113504058663910c3828a9c31905df6ad0897
+Section: System
+Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depiction: http://rpetri.ch/cydia/displayrecorder/
+Dev: rpetrich
+Name: Display Recorder
+Website: http://rpetri.ch/cydia/displayrecorder/
+
 Package: com.sn0wcode.cydiapatch
 Version: 0.0.1-49+debug
 Architecture: iphoneos-arm
