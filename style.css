@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
-<meta charset="UTF-8">
-
-<title>sn0wcode Repo</title>
-
-<link
-rel="icon"
-type="image/png"
-href="favicon.png"
->
-
-<link
-rel="stylesheet"
-href="style.css"
->
-
-<style>
-
 body {
 
     margin:0;
@@ -30,7 +7,7 @@ body {
         #c8ced6
         url("https://cydia.saurik.com/cytyle/pinstripes.png");
 
-    font-family:Helvetica;
+    font-family: Helvetica;
 
     font-size:13px;
 
@@ -72,7 +49,7 @@ fieldset a {
 
     text-decoration:none;
 
-    color:#000;
+    color:black;
 
 }
 
@@ -88,16 +65,14 @@ fieldset a {
 
     font-size:15px;
 
-    padding:10px;
-
-    -webkit-user-select:none;
+    padding:
+        10px;
 
 }
 
 .icon {
 
     width:24px;
-
     height:24px;
 
     vertical-align:middle;
@@ -119,8 +94,6 @@ fieldset a {
         1px solid #d6d6d6;
 
     background:white;
-
-    -webkit-user-select:none;
 
 }
 
@@ -152,7 +125,25 @@ label {
     margin:
         8px 0 4px 6px;
 
-    -webkit-user-select:none;
+}
+
+.infoText {
+
+    line-height:18px;
+
+    font-size:13px;
+
+}
+
+.footer {
+
+    text-align:center;
+
+    font-size:11px;
+
+    color:#666;
+
+    margin-top:10px;
 
 }
 
@@ -177,88 +168,3 @@ label {
     margin-bottom:4px;
 
 }
-
-.footer {
-
-    text-align:center;
-
-    font-size:11px;
-
-    color:#666;
-
-    margin-top:10px;
-
-    -webkit-user-select:none;
-
-}
-
-</style>
-
-</head>
-
-<body>
-
-<panel>
-
-<fieldset>
-
-<div class="header">
-
-<img
-src="CydiaIcon.png"
-class="icon"
->
-
-sn0wcode Repo
-
-</div>
-
-<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.sn0wcode.com">
-
-<div class="item arrow">
-
-Add to Cydia
-
-</div>
-
-</a>
-
-</fieldset>
-
-<label>
-
-Important Info
-
-</label>
-
-<fieldset>
-
-<div class="infoText">
-
-<div>
-Welcome to the sn0wcode repo backup.
-</div>
-
-<div>
-Commercial package support for iOS 6 is currently in development.
-</div>
-
-</div>
-
-</fieldset>
-
-<div class="footer">
-
-Compatible with iOS 6.1.x
-
-<br>
-
-by sn0wcode
-
-</div>
-
-</panel>
-
-</body>
-
-</html>
