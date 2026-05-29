@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
 Installed-Size: 2492
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
-Filename: debs/cydiastore_com.booleanmagic.displayrecorder_v1.3.22~beta1.deb
+Filename: ./debs/cydiastore_com.booleanmagic.displayrecorder_v1.3.22~beta1.deb
 Size: 914570
 MD5sum: c337781a37e78e81958869803fa1095b
 SHA1: b22f79cbacbda918f02152786aa96650b86b38a0
@@ -19,16 +19,16 @@ Name: Display Recorder
 Website: http://rpetri.ch/cydia/displayrecorder/
 
 Package: com.sn0wcode.cydiapatch
-Version: 0.0.1-49+debug
+Version: 0.0.1-52+debug
 Architecture: iphoneos-arm
 Maintainer: sn0wcode
 Installed-Size: 48
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.sn0wcode.cydiapatch_iphoneos-arm.deb
-Size: 5136
-MD5sum: 4c84a822cf217e8bae7d475f6bb07016
-SHA1: 99e7091f5451cc40f0c388f578b2147bc6ab8c7e
-SHA256: be2262ee9ac8392b0f45e7502610dec5eb7fdba95ff311587e6d501b0b82638f
+Filename: ./debs/com.sn0wcode.cydiapatch_0.0.1-52+debug_iphoneos-arm.deb
+Size: 5206
+MD5sum: b95221c345cb71d9a4b44acc259db9c1
+SHA1: 56931f382fb14ed7b1690d75e5e93644982f06fb
+SHA256: bdf8e63e77e7bfd9c1c3b05610fabbbd72115b70a705f0fff627059b774102e3
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: sn0wcode
