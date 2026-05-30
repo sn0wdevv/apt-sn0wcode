@@ -12,7 +12,7 @@ SHA256: 8115a5c0d537d5a0d59c121d28f113504058663910c3828a9c31905df6ad0897
 Section: System
 Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
 Author: Ryan Petrich [rpetrich+displayrecorder@gmail.com](mailto:rpetrich+displayrecorder@gmail.com)
-Depiction: Depiction: https://cydia.sn0wcode.com/legacy/package.html?v=2&id=com.booleanmagic.displayrecorder
+Depiction: https://cydia.sn0wcode.com/legacy/package.html?v=999999&id=com.booleanmagic.displayrecorder
 Name: Display Recorder
 Website: http://rpetri.ch/cydia/displayrecorder/
 
@@ -31,4 +31,4 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: sn0wcode
 Name: CydiaPatch
-Depiction: Depiction: https://cydia.sn0wcode.com/legacy/package.html?v=2&id=com.sn0wcode.cydiapatch
+Depiction: https://cydia.sn0wcode.com/legacy/package.html?v=999999&id=com.sn0wcode.cydiapatch
