@@ -14,8 +14,8 @@ Description: Record the display in real-time, send to camera roll, web interface
 Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
 Depiction: https://google.com
 Dev: rpetrich
-Name: Display Recorder
-Website: http://rpetri.ch/cydia/displayrecorder/
+Name: Display Recorder TEST
+Website: https://google.com/
 
 Package: com.sn0wcode.cydiapatch
 Version: 0.0.1-52+debug
