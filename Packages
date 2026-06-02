@@ -1,7 +1,7 @@
 Package: com.booleanmagic.displayrecorder
 Version: 1.3.22~beta1
 Architecture: iphoneos-arm
-Maintainer: Ryan Petrich [rpetrich+displayrecorder@gmail.com](mailto:rpetrich+displayrecorder@gmail.com)
+Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
 Installed-Size: 2492
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
 Filename: ./debs/cydiastore_com.booleanmagic.displayrecorder_v1.3.22~beta1.deb
@@ -11,10 +11,44 @@ SHA1: b22f79cbacbda918f02152786aa96650b86b38a0
 SHA256: 8115a5c0d537d5a0d59c121d28f113504058663910c3828a9c31905df6ad0897
 Section: System
 Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
-Author: Ryan Petrich [rpetrich+displayrecorder@gmail.com](mailto:rpetrich+displayrecorder@gmail.com)
-Depiction: https://cydia.sn0wcode.com/legacy/package.html?v=999999&id=com.booleanmagic.displayrecorder
+Tag: cydia::commercial
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depiction: http://rpetri.ch/cydia/displayrecorder/
+Dev: rpetrich
 Name: Display Recorder
 Website: http://rpetri.ch/cydia/displayrecorder/
+
+Package: com.myrepospace.Siris.mcpepatch
+Version: 0.3.3.0
+Architecture: iphoneos-arm
+Maintainer: Intyre
+Filename: ./debs/com.myrepospace.Siris.mcpepatch_0.3.3.0.deb
+Size: 1349968
+MD5sum: 59b9779de025460da14b6e493961ebb7
+SHA1: bc10a89a3f3d0090143dd1185d29e83b3e0f8d35
+SHA256: 2ff964d85b5252f8f73a074a22c2b7b5be799f5cd1dc081770a1e9e02d6245b4
+Section: MinecraftPE
+Description: MinecraftPE Mod and Multiplayer Patcher
+Author: Intyre
+Depiction: http://cydia.intyre.nl/depictions/mcpepatch.html
+Icon: file:///Applications/MCPEPatch.app/icon.png
+Name: MCPE Patch
+
+Package: com.myrepospace.reaper-carlos.imcpedit
+Version: 4.1-2
+Architecture: iphoneos-arm
+Filename: ./debs/com.myrepospace.reaper-carlos.imcpedit_4.1-2.deb
+Size: 2611000
+MD5sum: c4b365db8d146b05513fef4898c735d8
+SHA1: 731d212ec50446eb5222d15b72cb76ddf1ec3826
+SHA256: 792b608f1429cb2c728ac8f60963f8f22f316ca2550c52f9d735e7f3b97be3bf
+Section: MCPE
+Homepage: http://myrepospace.com
+Description: A MCPE inventory editor
+Author: Intyre <carlitos12313@gmail.com>
+Depiction: http://myrepospace.com
+Name: iMCPEdit
+Sponsor: myRepoSpace.com <http://www.myRepoSpace.com>
 
 Package: com.sn0wcode.cydiapatch
 Version: 0.0.1-52+debug
@@ -31,4 +65,4 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: sn0wcode
 Name: CydiaPatch
-Depiction: https://cydia.sn0wcode.com/legacy/package.html?v=999999&id=com.sn0wcode.cydiapatch
+
